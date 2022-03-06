@@ -2,11 +2,11 @@ body {
     margin: 0;
     font-family: 'Open-Sans', sans-serif;
     color: rgb(44, 41, 44);
-    background-color: rgb(247, 239, 247);
+    background-color: rgb(217, 237, 255);
   }
   
   #main-header {
-    background-color: rgb(140, 0, 255);
+    background-color: rgb(2, 32, 102);
     color: white;
     padding: 2rem 5%;
     text-align: center;
@@ -15,8 +15,8 @@ body {
   .btn {
     font: inherit;
     padding: 0.5rem 1.5rem;
-    background-color: rgb(140, 0, 255);
-    border: 1px solid rgb(140, 0, 255);
+    background-color: rgb(58, 120, 190);
+    border: 1px solid rgb(58, 120, 190);
     color: white;
     border-radius: 4px;
     cursor: pointer;
@@ -25,15 +25,15 @@ body {
   .btn-alt {
     background-color: transparent;
     border-color: transparent;
-    color: rgb(140, 0, 255);
+    color: rgb(3, 54, 112);
   }
   
   .btn:hover {
-    background-color: rgb(79, 10, 190);
-    border-color: rgb(79, 10, 190);
+    background-color: rgb(9, 52, 102);
+    border-color: rgb(9, 52, 102);
   }
   
   .btn-alt:hover {
-    background-color: rgb(230, 201, 252);
+    background-color: rgb(165, 210, 253);
     border-color: transparent;
   }

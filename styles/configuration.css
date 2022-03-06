@@ -41,7 +41,7 @@
     margin: 1rem;
     padding: 1rem;
     width: 50%;
-    background-color: rgb(243, 227, 255);
+    background-color: rgb(198, 223, 255);
     border-radius: 4px;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
   }
@@ -54,12 +54,12 @@
   #game-configuration h3 {
     font-size: 1.5rem;
     margin: 0.5rem 0;
-    color: rgb(94, 4, 168);
+    color: rgb(94, 163, 253);
   }
   
   .player-symbol {
     font-size: 2rem;
     font-weight: bold;
-    color: rgb(47, 4, 82);
+    color: rgb(4, 27, 82);
     margin: 0.5rem 0;
   }
