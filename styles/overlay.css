@@ -1,0 +1,15 @@
+.modal{
+    position:fixed;
+    top: 20%;
+    left: 5%;
+    width: 90%;
+}
+
+@media(min-width: 48rem){
+    .modal{
+        left: calc(50%-20rem); /* allows us to calculate dimensions*/
+        width: 40rem;
+
+    }
+
+}
