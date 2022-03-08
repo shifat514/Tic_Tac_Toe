@@ -15,6 +15,8 @@ function closePlayerConfig(){
   //removing errors
   formElement.firstElementChild.classList.remove('error'); // to remove the red errors
   errorsOutputElement.textContent='';
+
+  formElement.firstElementChild.lastElementChild.value='';
 }
   
 
